@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @farid-1604045
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, This is Faridul Islam.
+- 👀 I graduated from the CUET CSE department.  I have a good experience in programming.
+- 🌱 I also have a good grasp of backend engineering.
+- 💞️ I’m looking to collaborate on ... 
+- 📫 You can reach me via mail... geek1604045@gmail.com
 
 <!---
 farid-1604045/farid-1604045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
