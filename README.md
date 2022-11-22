@@ -1,5 +1,5 @@
 - 👋 Hi, This is Faridul Islam.
-- 👀 I graduated from the CUET CSE department.  I have a good experience in programming.
+- 👀 I am graduated from the CUET CSE department.  I have a good experience in programming.
 - 🌱 I also have a good grasp of backend engineering.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 You can reach me via mail... geek1604045@gmail.com
