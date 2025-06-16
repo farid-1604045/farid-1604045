@@ -1,10 +1,13 @@
-- 👋 Hi, This is Faridul Islam.
-- 👀 I am graduated from the CUET CSE department.  I have a good experience in programming.
-- 🌱 I also have a good grasp of backend engineering.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 You can reach me via mail... geek1604045@gmail.com
+### 👋 Hi, I’m Faridul Islam
 
-<!---
-farid-1604045/farid-1604045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Graduate of **CUET**, Department of **Computer Science & Engineering**
+- 👨‍💻 Passionate about programming and software development  
+- 🛠️ Experienced in **.NET Framework**, **.NET Core**, **WinForms**, **Web Development**, and **Backend Engineering**
+- 🔍 Strong understanding of **object-oriented programming**, **system design**, and **SQL/database management**
+- 🧠 I love solving problems, building full-stack applications, and working on meaningful projects  
+- 🤝 Looking to collaborate on impactful software projects, especially backend or full-stack development
+- 📫 Reach me at: **geek1604045@gmail.com**
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
